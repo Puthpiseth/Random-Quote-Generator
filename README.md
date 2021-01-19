@@ -4,11 +4,10 @@ This application helps users to generate a random quote. This app will run in th
 
 ## GitHup Page of the Application
 
-https://github.com/Puthpiseth/Random-quote-generator
+https://puthpiseth.github.io/Random-Quote-Generator/
 
 ## Application Instruction
 
 Click the button "new-quote" to generate a random quote and the color of the body, the quote, the author and the button are randomly modified.
 
 ## The Application Layout
-
