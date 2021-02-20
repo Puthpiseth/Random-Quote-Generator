@@ -1,6 +1,6 @@
 ## Random-Quote-Generator
 
-This application helps users to generate a random quote. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
+This is an individual project of Simplon.co Bootcamp. This application helps users to generate a random quote. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
 
 ## GitHup Page of the Application
 
